@@ -15,6 +15,4 @@ https://github.com/OJB-Quantum/CUDA-Quantum/assets/88035770/864e8995-f5aa-49d6-b
 
 
 
-
-![Screenshot 2023-06-27 034200](https://github.com/OJB-Quantum/CUDA-Quantum/assets/88035770/1e56ae72-adc9-45da-876b-b057678a5525)
 ![image](https://github.com/OJB-Quantum/CUDA-Quantum/assets/88035770/e42e0420-9d58-4cae-96fb-16e305bffe23)
