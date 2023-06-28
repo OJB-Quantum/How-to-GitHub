@@ -13,6 +13,3 @@
 
 https://github.com/OJB-Quantum/CUDA-Quantum/assets/88035770/864e8995-f5aa-49d6-b186-53008f4b5c04
 
-
-
-![image](https://github.com/OJB-Quantum/CUDA-Quantum/assets/88035770/e42e0420-9d58-4cae-96fb-16e305bffe23)
