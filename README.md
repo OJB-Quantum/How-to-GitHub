@@ -6,7 +6,7 @@
 # Location of All Hardware and Software Licenses Online:
 - https://choosealicense.com/appendix
 
-## Here are 2 Video Tutorials I Made To Go with the PDF For Your Reference:
+## Here are 2 Video Tutorials I Made To Go with the PDF for Your Reference:
 ### 20-Minute Version:
 - https://youtu.be/oaAWOGORCX8
 
