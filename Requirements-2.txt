@@ -1,3 +1,0 @@
-Requirements-2:
-qiskit-metal - version
-geopandas - version
