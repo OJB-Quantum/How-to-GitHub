@@ -1,7 +1,7 @@
 # How To Use GitHub
 
-## Download the PDF Below to Learn the Basics of GitHub
-[A Few Tips on How to Use GitHub_Onri.pdf](https://github.com/OJB-Quantum/CUDA-Quantum/files/11888330/A.Few.Tips.on.How.to.Use.GitHub_Onri.pdf)
+# Download this PDF to Learn the Basics of GitHub
+- [A Few Tips on How to Use GitHub_Onri.pdf](https://github.com/OJB-Quantum/CUDA-Quantum/files/11888330/A.Few.Tips.on.How.to.Use.GitHub_Onri.pdf)
 
 ## Here are 2 Video Tutorials I Made To Go with the PDF For Your Reference:
 ### 20-Minute Version
