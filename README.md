@@ -10,12 +10,12 @@
 ### 20-Second Version:
 - https://youtu.be/oaAWOGORCX8
 
+### 23-Minute Version:
+- https://youtu.be/hfuOaECoi_s
+
 | |
 |-|
 | • [Browser-based interactive GitHub teaching tool](https://learngitbranching.js.org) |
-
-### 23-Minute Version:
-- https://youtu.be/hfuOaECoi_s
 
 https://github.com/OJB-Quantum/CUDA-Quantum/assets/88035770/864e8995-f5aa-49d6-b186-53008f4b5c04
 
