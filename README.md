@@ -18,4 +18,3 @@
 | • [Browser-based interactive GitHub teaching tool](https://learngitbranching.js.org) |
 
 https://github.com/OJB-Quantum/CUDA-Quantum/assets/88035770/864e8995-f5aa-49d6-b186-53008f4b5c04
-
