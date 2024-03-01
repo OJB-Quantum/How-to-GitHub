@@ -10,6 +10,9 @@
 ### 20-Second Version:
 - https://youtu.be/oaAWOGORCX8
 
+| |
+|-|
+| • [Browser-based interactive GitHub teaching tool](https://learngitbranching.js.org) |
 
 ### 23-Minute Version:
 - https://youtu.be/hfuOaECoi_s
